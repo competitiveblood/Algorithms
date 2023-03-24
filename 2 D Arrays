@@ -1,0 +1,6 @@
+In a 2D array, each element is identified by a pair of indices,
+One for the row and another for the column. 
+The rows and columns are typically numbered starting from 0.
+
+2D arrays in Java-:
+
