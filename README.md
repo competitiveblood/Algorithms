@@ -1,6 +1,6 @@
 # 100DAYSOFCODING
 
-***100days of clearing my basics in the field of programming***
+***100days of clearing my basics and fundamentals***
 
 
 
