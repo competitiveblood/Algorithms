@@ -1,1 +1,1 @@
-
+# Null terminated Strings #
