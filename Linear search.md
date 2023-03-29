@@ -1,1 +1,39 @@
 
+## LINEAR SEARCH IN PROGRAMMING 
+
+Linear Search is defined as a sequential search algorithm that starts at one end and goes through each element of a list until the desired element is found, otherwise the search continues till the end of the data set.
+
+
+*LINEAR SEARCH IN C*
+
+```c
+#include <stdio.h>
+ 
+int search(int arr[], int N, int x)
+{
+    int i;
+    for (i = 0; i < N; i++)
+        if (arr[i] == x)
+            return i;
+    return -1;
+}
+ 
+// Driver code
+int main(void)
+{
+    int arr[] = { 2, 3, 4, 10, 40 };
+    int x = 10;
+    int N = sizeof(arr) / sizeof(arr[0]);
+ 
+    // Function call
+    int result = search(arr, N, x);
+    (result == -1)
+        ? printf("Element is not present in array")
+        : printf("Element is present at index %d", result);
+    return 0;
+}
+```
+
+**OUTPUT**
+
+Element is present at index 3
