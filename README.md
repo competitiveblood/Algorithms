@@ -1,6 +1,6 @@
 # 100DAYSOFCODING
 
-***100days of DSA***
+100days of DSA
 
 
 
