@@ -1,6 +1,5 @@
 # Algorithms
 
-All important algorithm at one place
 
 
 Linear Search
