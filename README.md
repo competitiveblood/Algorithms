@@ -1,13 +1,3 @@
-# 100DAYSOFCODING
+# Algorithm
 
-100days of DSA
-
-
-
-
-
-
-
-
-
-LESSSGOOOOO
+All important algorithms at one place 
