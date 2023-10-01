@@ -42,6 +42,5 @@ public class Dijkstra {
             }
         }
 
-        return distances;
-    }
-}
+
+
